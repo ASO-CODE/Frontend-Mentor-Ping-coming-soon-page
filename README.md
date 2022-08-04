@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ASO-CODE/Frontend-Mentor-3-column-preview-card-component](https://github.com/ASO-CODE/Frontend-Mentor-3-column-preview-card-component)
-- Live Site URL: [https://aso-code-3-column-card-component.netlify.app/](https://aso-code-3-column-card-component.netlify.app/)
+- Solution URL: [https://github.com/ASO-CODE/Frontend-Mentor-Ping-coming-soon-page](https://github.com/ASO-CODE/Frontend-Mentor-Ping-coming-soon-page)
+- Live Site URL: [https://aso-code-ping-coming-soon-page.netlify.app/](https://aso-code-ping-coming-soon-page.netlify.app/)
 
 ## My process
 
